@@ -122,7 +122,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 {% endfor %}
 
-## Ph.D. Students
+## Ph.D Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
