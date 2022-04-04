@@ -12,7 +12,7 @@ permalink: /team/
 (Unfortunately, we do not have any opening for foreign students.) <br>
 Please send an email to Prof. Wook-Shin Han at [wshan@dblab.postech.ac.kr](mailto:wshan@dblab.postech.ac.kr) regarding the scholarship.
 
-Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-and-master-students), [Bachelor Students](#bachelor-students), [Alumni](#alumni).
+Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-students), [Bachelor Students](#bachelor-students), [Alumni](#alumni).
 
 ## Professor
 
