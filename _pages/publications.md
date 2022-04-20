@@ -16,6 +16,9 @@ permalink: /publications/
   <li>We have published five papers (1 SIGMOD, 4 VLDB) in top database conferences in 2020</li>
 </ul>
 
+## Notice for undergrads 
+For undergrads who are interested in big data, data management, and database systems, note that SIGMOD, VLDB, and ICDE are flagship conferences in these fields. We have published a lot of strong papers in these venues. We are competing with top universities worldwide, and actively seek for self-motivated students who would like to share our vision.
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
