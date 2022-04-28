@@ -289,6 +289,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Senior Developer @ SAP, Germany
 </div>
 </div>  
+
+<div class="row">  
+<div class="col-sm-6 clearfix">
+<h4>Jeehwan Lee</h4> 
+<i>Software Engineer, Google Research
+</div>
+</div>  
   
 <div class="row">  
 <div class="col-sm-6 clearfix">
