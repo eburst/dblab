@@ -240,12 +240,12 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>
 </div>
   
-<!-- <div class="row">
+<div class="row">
 <div class="col-sm-6 clearfix">
-<h4>JinHo Ko</h4>
+<h4>Dongyeop Woo</h4>
 <i>Bachelor Student
 </div>
-</div> //-->
+</div>
   
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -264,13 +264,6 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Taejun Yoon</h4>
-<i>Bachelor Student
-</div>
-</div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Woodong Yeop</h4>
 <i>Bachelor Student
 </div>
 </div>
