@@ -464,13 +464,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
   
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Chang-Uk Kwak</h4>
-<i>ETRI
-</div>
-</div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
 <h4>Jaehwa Kim</h4>
 <i>SAP Labs, Korea
 </div>
@@ -483,6 +476,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Chang-Uk Kwak</h4>
+<i>ETRI
+</div>
+</div>  
+  
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Changhyun Min</h4>
