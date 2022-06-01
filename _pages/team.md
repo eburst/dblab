@@ -242,6 +242,13 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 <div class="row">
 <div class="col-sm-6 clearfix">
+<h4>Dongyeop Woo</h4>
+<i>Bachelor Student
+</div>
+</div> 
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
 <h4>Taejun Yoon</h4>
 <i>Bachelor Student
 </div>
@@ -261,12 +268,6 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>
 </div>  
   
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Dongyeop Wyoo</h4>
-<i>Bachelor Student
-</div>
-</div>
   
 <!--
 ## Administration Staff
