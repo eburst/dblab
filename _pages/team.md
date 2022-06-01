@@ -243,7 +243,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Dongyeop Woo</h4> 
-<i>Bachelor Student1
+<i>Bachelor Student
 </div>
 </div> 
   
