@@ -365,13 +365,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
   
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Woo-Seong Kwak</h4>
-<i>Korea Color Steel Corp., Korea(CEO)
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-6 clearfix">
 <h4>MinWoo Kim</h4>
 <i> SelectStar
 </div>
@@ -397,6 +390,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Kakao, Korea
 </div>
 </div>
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Woo-Seong Kwak</h4>
+<i>Korea Color Steel Corp., Korea(CEO)
+</div>
+</div>  
 
 <div class="row">
 <div class="col-sm-6 clearfix">
