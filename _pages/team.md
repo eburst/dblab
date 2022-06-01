@@ -235,7 +235,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 ## Bachelor Students
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>EunIk Park</h4>
+<h4>Byeongho Yu</h4>
 <i>Bachelor Student
 </div>
 </div>
@@ -253,6 +253,27 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <i>Bachelor Student
 </div>
 </div>  
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Sangoh Lee</h4>
+<i>Bachelor Student
+</div>
+</div>
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Taejun Yoon</h4>
+<i>Bachelor Student
+</div>
+</div>
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Woodong Yeop</h4>
+<i>Bachelor Student
+</div>
+</div>
 
 <!--
 ## Administration Staff
