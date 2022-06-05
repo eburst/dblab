@@ -75,7 +75,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 {% endfor %}
 
 
-<!-- ## Post Doc. 
+## Post Doc. 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
@@ -121,7 +121,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>
 
 {% endfor %}
-//-->
+
 
 ## Ph.D Students
 {% assign number_printed = 0 %}
