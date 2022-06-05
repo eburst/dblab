@@ -75,7 +75,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 {% endfor %}
 
 
-## Post Doc.
+<!-- ## Post Doc. 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
@@ -121,6 +121,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>
 
 {% endfor %}
+-->
 
 ## Ph.D Students
 {% assign number_printed = 0 %}
@@ -332,6 +333,12 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Assistant Professor @ Rensselaer Polytechnic Institute, USA
 </div>
 </div>
+  
+<div class="row">  
+<div class="col-sm-6 clearfix">
+<h4>Dennis Singh Moirangthem</h4> 
+</div>
+</div>  
 
 
 ### PhDs
@@ -409,6 +416,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4>SeungMin Lee</h4>
+<i>Kakao
 </div>
 </div>  
   
