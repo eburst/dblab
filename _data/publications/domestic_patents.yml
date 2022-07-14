@@ -1,4 +1,16 @@
 - ISSN: null
+  authors: 한 욱신, 나 인혁, 김 현지, 강 혁규
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 특허등록번호 10-2345568, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/1RFc5YY6--fLkzm1PKHErwYOd-n_k4a3l/view?usp=sharing
+  month: 12
+  title: 자연어 단어를 데이터베이스의 컬럼 및 테이블과 연결하는 방법
+  year: 2021
+- ISSN: null
   authors: 한 욱신, 박 연수, 김 현지, 이 영화
   description: null
   highlight: 0
@@ -23,6 +35,18 @@
   title: 	자연어 처리 시스템의 학습 데이터셋 증강 방법 
   year: 2021
 - ISSN: null
+  authors: 한 욱신, 고 성윤
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 특허등록번호 10-2325057, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/1tPgb5RHuUKT9Mjvhc2q4lWCPqUgZ2gjC/view?usp=sharing
+  month: 11
+  title: 그래프 데이터 처리 방법 및 그래프 데이터 처리 장치
+  year: 2021  
+- ISSN: null
   authors: 한 욱신, 강 혁규, 김 현지
   description: null
   highlight: 0
@@ -46,6 +70,18 @@
   month: 11
   title: 	질의 처리 가속 방법 및 장치  
   year: 2021
+- ISSN: null
+  authors: 한 욱신, 강 혁규, 김 현지, 나 인혁
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 특허등록번호 10-2277787, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/1Evz3e1mnYKHOj8igqx-5AwNbQFppU6q-/view?usp=sharing
+  month: 7
+  title: 신경망 기반 자연어로부터 SQL 질의 번역 시 사용되는 컬럼 및 테이블을 예측하는 방법
+  year: 2021 
 - ISSN: null
   authors: 한 욱신, 고 성윤, 이 태성
   description: null
@@ -93,42 +129,6 @@
   link: null
   month: 1
   title: 문서-개체 그래프 생성 장치 및 방법, 부분 그래프 생성 장치 및 방법
-  year: 2021
-- ISSN: null
-  authors: 한 욱신, 나 인혁, 김 현지, 강 혁규
-  description: null
-  highlight: 0
-  image: null
-  info: 특허청, 특허등록번호 10-2345568, 등록일
-  is_co-corresponding_author: false
-  is_corresponding_author: false
-  link: https://drive.google.com/file/d/1RFc5YY6--fLkzm1PKHErwYOd-n_k4a3l/view?usp=sharing
-  month: 12
-  title: 자연어 단어를 데이터베이스의 컬럼 및 테이블과 연결하는 방법
-  year: 2021
-- ISSN: null
-  authors: 한 욱신, 강 혁규, 김 현지, 나 인혁
-  description: null
-  highlight: 0
-  image: null
-  info: 특허청, 특허등록번호 10-2277787, 등록일
-  is_co-corresponding_author: false
-  is_corresponding_author: false
-  link: https://drive.google.com/file/d/1Evz3e1mnYKHOj8igqx-5AwNbQFppU6q-/view?usp=sharing
-  month: 7
-  title: 신경망 기반 자연어로부터 SQL 질의 번역 시 사용되는 컬럼 및 테이블을 예측하는 방법
-  year: 2021
-- ISSN: null
-  authors: 한 욱신, 고 성윤
-  description: null
-  highlight: 0
-  image: null
-  info: 특허청, 특허등록번호 10-2325057, 등록일
-  is_co-corresponding_author: false
-  is_corresponding_author: false
-  link: https://drive.google.com/file/d/1tPgb5RHuUKT9Mjvhc2q4lWCPqUgZ2gjC/view?usp=sharing
-  month: 11
-  title: 그래프 데이터 처리 방법 및 그래프 데이터 처리 장치
   year: 2021
 - ISSN: null
   authors: 한 욱신, 조 정호, 이 유경, 김 현지, 홍 기재
