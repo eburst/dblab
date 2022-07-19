@@ -334,11 +334,11 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
   
-<div class="row">  
+<!-- <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4>Dennis Singh Moirangthem</h4> 
 </div>
-</div>  
+</div> //-->
 
 
 ### PhDs
