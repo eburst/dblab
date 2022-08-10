@@ -295,7 +295,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/jinha-kim-89626535/">Jinha Kim</a></h4>
-<i>Senior Applied Scientist @ Alexa AI, Amazon, USA
+<i>Senior Applied Scientist, Alexa AI, Amazon, USA
 </div>
 </div>
   
