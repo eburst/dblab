@@ -302,7 +302,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/jinohoh/">Jinoh Oh</a></h4>
-<i>Applied Scientist, Alexa AI, Amazon
+<i>Applied Scientist, Alexa AI, Amazon, USA
 </div>
 </div>
 
