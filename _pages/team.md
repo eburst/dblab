@@ -578,7 +578,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 {% endfor %}
 </div>
 
-</div>
+</div> 
 
 
 ## Administrative Support
