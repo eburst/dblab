@@ -381,7 +381,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>JiSung Jung</h4>
-<!-- <i>Hyundai MnSoft, Korea //-->
+<i> 
 </div>
 </div>  
   
