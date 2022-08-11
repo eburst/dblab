@@ -380,6 +380,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
   
 <div class="row">
 <div class="col-sm-6 clearfix">
+<h4>JiSung Jung</h4>
+<!-- <i>Hyundai MnSoft, Korea //-->
+</div>
+</div>  
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
 <h4>MinWoo Kim</h4>
 <i> SelectStar, Korea
 </div>
@@ -388,7 +395,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Seon-Hyo Kim</h4>
-<i>Lecturer
+<i>Lecturer, Korea
 </div>
 </div>  
   
@@ -423,14 +430,14 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4>SeungMin Lee</h4>
-<i>Kakao
+<i>Kakao, Korea
 </div>
 </div>  
   
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Sungjin Lee</h4>
-<i>GS itm
+<i>GS itm, Korea
 </div>
 </div>
   
@@ -451,14 +458,14 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Je-Yong Shin</h4>
-<i>Samsung Inc.
+<i>Samsung Inc., Korea
 </div>
 </div>
   
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Byeong hoon So</h4>
-<i> Skelter Labs
+<i> Skelter Labs, Korea
 </div>
 </div>
 
@@ -495,7 +502,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Chang-Uk Kwak</h4>
-<i>ETRI
+<i>ETRI, Korea
 </div>
 </div>  
   
