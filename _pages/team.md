@@ -348,6 +348,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Research Scientist, Facebook, Menlo Park, USA
 </div>
 </div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://www.linkedin.com/in/doyuplee/">DoYup Lee</a></h4>
+<i>AI Research Scientist, Kakao Brain, Korea
+</div>
+</div>  
   
 <div class="row">  
 <div class="col-sm-6 clearfix">
@@ -360,7 +367,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4>JungHo Cho</h4>
-<i> Upstage  
+<i> Upstage, Korea  
 </div>
 </div>
   
@@ -374,7 +381,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>MinWoo Kim</h4>
-<i> SelectStar
+<i> SelectStar, Korea
 </div>
 </div>
   
