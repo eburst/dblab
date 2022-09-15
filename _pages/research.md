@@ -30,4 +30,11 @@ The three key queries for graph applications are graph pattern mining, graph ana
 Our goal is to develop a next-generation graph DBMS that can support graph applications mixed with three key graph queries on one system and provides scalable and efficient high-speed query processing for big graphs. The main components of the system are 1) Big/Dynamic native property graph storage, 2) Distributed and disk-based scalable, an efficient graph query engine, 3) Distributed graph neural network training and inference engine, 4) Integrated API library, and 5) Interactive query service.
 <iframe width="480" height="270" src="https://www.youtube.com/embed/dIZshMyq7TE" frameborder="0" allowfullscreen></iframe>
 
+<br>
+**Automatic Realistic Image Generation (CVPR2022, Neurips2022)** For autoregressive (AR) modeling of high-resolution images, vector quantization (VQ) represents an image as a sequence of discrete codes. A short sequence length is important for an AR model to reduce its computational costs to consider long-range interactions of codes. However, we postulate that previous VQ cannot shorten the code sequence and generate high-fidelity images together in terms of the rate-distortion trade-off. In this study, we propose the two-stage framework, which consists of Residual-Quantized VAE (RQ-VAE) and RQ-Transformer, to effectively generate high-resolution images. Given a fixed codebook size, RQ-VAE can precisely approximate a feature map of an image and represent the image as a stacked map of discrete codes. Then, RQ-Transformer learns to predict the quantized feature vector at the next position by predicting the next stack of codes. Thanks to the precise approximation of RQ-VAE, we can represent a 256×256 image as 8×8 resolution of the feature map, and RQ-Transformer can efficiently reduce the computational costs. Consequently, our framework outperforms the existing AR models on various benchmarks of unconditional and conditional image generation. Our approach also has a significantly faster sampling speed than previous AR models to generate high-quality images.
+
+<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Autoregressive_Image_Generation_Using_Residual_Quantization_CVPR_2022_paper.pdf"><b>cvpr paper</b></a> <br>
+<a href="https://github.com/kakaobrain/rq-vae-transformer"><b>code link</b></a>
+
+
 ### ... and more.
