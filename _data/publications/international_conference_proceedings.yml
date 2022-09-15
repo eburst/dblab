@@ -1,4 +1,17 @@
 - ISSN: null
+  authors: Lee, D., Kim, C., Kim, S., Cho, M., Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info:  In Proc., 36th Conf. on Neural Information Processing Systems, NeurIPS, New Orleans, USA
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: November
+  title: 'Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer'
+  year: 2022
+- ISSN: null
   authors: Kim, K., Jeong, J., Seo, I., Han, W., Choi, K., and Chong, J.
   description: null
   highlight: 0
