@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <br>
-Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems lab focuses on **STAR** (namely, **Systems, Theory, and ARtificial intelligence**) supported by major grants such as Star Lab. We have been endeavoring to solve **challenging** and real problems in computer/data science.
+Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems lab focuses on **STAR** (namely, **Systems, Theory, and ARtificial intelligence**) supported by major grants such as Star Lab. We have been endeavoring to solve challenging and real problems in computer/data science.
 
 Our goal is to build scalable, intelligent Big data systems that effectively and efficiently deal with Big data. Most of Big data is unstructured data, and thus, it is difficult to handle. We are building a system for converting unstructured data into semi-structured data in a graph form so that it can be easily handled in our distributed graph engines such as TurboGraph/TurboGraph++/iTurboGraph. We are also building an intelligent system to interact with humans through a natural language interface to the database
 
