@@ -3,14 +3,13 @@
   description: null
   highlight: 0
   image: null
-  info: In Proc., 49th Int'l Conf. on Management of Data, ACM SIGMOD, 
-    Seattle, WA, USA
+  info: In Proc., 49th Int'l Conf. on Management of Data, ACM SIGMOD, Seattle, WA, USA
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: false
   link: null
   month: June
-  title: QaaD (Query-as-a-Data): Scalable Execution of Massive Number of Small Queries in Spark
+  title: 'QaaD (Query-as-a-Data): Scalable Execution of Massive Number of Small Queries in Spark'
   year: 2023
 - ISSN: null
   authors: Lee, D., Kim, C., Kim, S., Cho, M., Han, W.
