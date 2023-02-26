@@ -234,13 +234,14 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 
 ## Bachelor Students
+
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Sangoh Lee</h4>
+<h4>Minseo Kim</h4>
 <i>Bachelor Student
 </div>
-</div>
-
+</div>    
+  
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Dongyeop Woo</h4> 
@@ -255,21 +256,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>
 </div>
 
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Byeongho Yu</h4>
-<i>Bachelor Student
-</div>
-</div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Joohyung Yun</h4>
-<i>Bachelor Student
-</div>
-</div>  
-  
-  
+
 <!--
 ## Administration Staff
 -->
