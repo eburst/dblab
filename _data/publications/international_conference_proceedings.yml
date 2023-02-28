@@ -1,4 +1,17 @@
 - ISSN: null
+  authors: Kim, C., Lee, D., Kim, S., Cho, M., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023, CVPR, Vancouver, Canada
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: June
+  title: 'Generalizable Implicit Neural Representations with Instance Pattern Composers'
+  year: 2023
+- ISSN: null
   authors: Park, Y., Tak, B., and Han, W.
   description: null
   highlight: 0
