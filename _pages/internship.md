@@ -3,7 +3,7 @@ title: "Database & Data Mining Lab - Internship"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /software
+permalink: /internship
 ---
 
 # INTERNSHIP OPPORTUNITY
