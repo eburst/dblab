@@ -15,9 +15,9 @@ Internship period: 15 June - 25 Aug., 2023
 ## Eligibility criteria
 
 1. Must be a motivated, proactive, and strong finisher
-2. must be enrolled in POSTECH
+2. Must be enrolled in POSTECH
 3. Should meet the required skills for the internship (you should obtain at least the A grade for the database systems course if the topic chosen is related to a data system)
-4. have experience with programming 
+4. Have experience with programming 
 
 ## Application
 
