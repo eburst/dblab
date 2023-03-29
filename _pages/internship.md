@@ -34,3 +34,7 @@ Please fill [this application form](https://forms.gle/iHyReV6YQNdivn3f8) if you 
 - Implementation of a component in a GPU DBMS (System)
 - Anomaly detection (AI)
 - Development of an AI-powered optimizer for graph DBMS (AI+System)
+- Anomaly explanation using deep learning model (AI)
+- Implementation of Neo4J JDBC driver API for S62 (System)
+- Implementation of graph partitioning algorithm using hash trie data structure (System)
+
