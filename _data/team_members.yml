@@ -14,14 +14,6 @@
   email: jhyun@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: Taemin Oh
-  homepage: https://dhxoals.github.io
-  photo: tmoh.jpg
-  info: PhD (integrated), started March 2023
-  email: tmoh@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
   
 - name: Sungho Park
   homepage: https://pshlego.github.io
@@ -68,14 +60,6 @@
   photo: kmkim.jpeg
   info: PhD (integrated), started March 2017
   email: kmkim@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: JinHo Ko
-  homepage: http://academics.jinhoko.com
-  photo: jhko.JPG
-  info: PhD (integrated), start September 2022
-  email: jhko@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
