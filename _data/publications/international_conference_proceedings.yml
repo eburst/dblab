@@ -1,4 +1,18 @@
 - ISSN: null
+  authors: Lee, D., Kim, C., Cho, M., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., 37th Annual Conference on Neural Information Processing Systems, NeurIPS, New Orleans, Louisiana, USA
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: December
+  title: 'Locality-Aware Generalizable Implicit Neural Representation'
+  year: 2023
+  
+- ISSN: null
   authors: Kim, K., Ha, J., Fletcher, G., and Han, W.
   description: null
   highlight: 0
