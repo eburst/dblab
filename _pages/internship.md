@@ -8,9 +8,9 @@ permalink: /internship
 
 # INTERNSHIP OPPORTUNITY
 
-Application deadline: 1 June, 2023
+Application deadline: 1 December, 2023
 
-Internship period: 15 June - 25 Aug., 2023
+Internship period: 26 December - 14 Feb., 2024
 
 ## Eligibility criteria
 
