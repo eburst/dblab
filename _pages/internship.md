@@ -25,7 +25,7 @@ Please read [this article](https://m.blog.naver.com/lovehan/220388845800) carefu
 
 We are currently recruiting multiple student interns on topics related to intersection of (data) System, Theory, and ARtificial intelligence. The applicants should have a strong background in computer science in general. 
 
-Please fill [this application form](https://forms.gle/iHyReV6YQNdivn3f8) if you are interested. Your CV needs to contain various portfolios. You may refer to [this one](https://drive.google.com/file/d/19n0RKn8DyDHdscEq0Z3icGZcoUxtJFb5/view).
+Please fill [this application form](https://forms.gle/iHyReV6YQNdivn3f8) if you are interested. Your CV needs to contain various portfolios. You may refer to [this one](https://drive.google.com/file/d/1Gp5sn2No38lE0JfZDO3HmLgvP2B7zEwb/view?usp=drive_link).
 
 ## Possible topics
 
