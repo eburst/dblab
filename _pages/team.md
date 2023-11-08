@@ -339,7 +339,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/doyuplee/">DoYup Lee</a></h4>
-<i>AI Research Scientist, Kakao Brain, Korea
+<i>Senior Research Scientist, Runway, USA
 </div>
 </div>  
   
