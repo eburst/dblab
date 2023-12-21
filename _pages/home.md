@@ -29,10 +29,10 @@ Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dblab_main_4.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dblab_main_1.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dblab_main_6.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dblab_main_6.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dblab_main_1.jpeg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dblab_main_3.jpeg" alt="Slide 4" />
