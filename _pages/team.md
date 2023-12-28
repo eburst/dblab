@@ -353,6 +353,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 ### MSs
 <div class="row">  
 <div class="col-sm-6 clearfix">
+<h4>JeongEun Ha</h4>
+<i> Banksalad, Korea 
+</div>
+</div>
+  
+<div class="row">  
+<div class="col-sm-6 clearfix">
 <h4>JungHo Cho</h4>
 <i> Upstage, Korea  
 </div>
