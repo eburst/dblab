@@ -1,3 +1,18 @@
+- name: Taejun Yoon
+  homepage: https://ytj0604.github.io
+  photo: tjyoon.jpg
+  info: PhD (integrated), started March 2024
+  email: tjyoon@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+  
+- name: JooYong Lee
+  homepage: https://leejyg.github.io
+  photo: jylee.jpg
+  info: PhD (integrated), started March 2024
+  email: jylee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
 - name: Sangoh Lee
   homepage: https://leesangoh.github.io
