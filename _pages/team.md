@@ -237,24 +237,17 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Minseo Kim</h4>
+<h4>Jueun Kim</h4>
 <i>Bachelor Student
 </div>
 </div>    
   
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Dongyeop Woo</h4> 
+<h4>Jeongho Son</h4> 
 <i>Bachelor Student
 </div>
 </div> 
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Taejun Yoon</h4>
-<i>Bachelor Student
-</div>
-</div>
 
 
 <!--
