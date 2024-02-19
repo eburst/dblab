@@ -1,5 +1,18 @@
+- ISSN: 2150-8097
+  authors: Shin, W., Song, S., Park, K., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 50th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 14, No. 1
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: 
+  month: Aug.
+  title: 'Cardinality Estimation of Subgraph Matching: A Filtering-Sampling Approach'
+  year: 2024  
 - ISSN: 1066-8888
-  authors: Kim, H., Choi, Y., Park, K., Lin, X., Hong, S., and Han, W., 
+  authors: Kim, H., Choi, Y., Park, K., Lin, X., Hong, S., and Han, W.
   description: null
   highlight: 0
   image: null
