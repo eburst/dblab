@@ -1,4 +1,18 @@
 - ISSN: null
+  authors: Lee, W., Ha, J., Han, W., Park, C., Park, M., Han, J., and Lee, J.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., 50th  Int’l Conf. on Management of Data, ACM SIGMOD, Santiago, Chile
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: May
+  title: 'DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay'
+  year: 2024
+
+- ISSN: null
   authors: Min, S., Jang, J., Park, K., Giammarresi, D., Italiano, G., and Han, W.
   description: null
   highlight: 0
