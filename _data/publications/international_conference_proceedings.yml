@@ -1,4 +1,18 @@
 - ISSN: null
+  authors: Kim, K., Lee, S., Kim, I., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., 50th  Int’l Conf. on Management of Data, ACM SIGMOD, Santiago, Chile
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: June
+  title: 'ASM: Harmonizing Autoregressive model, Sampling, and Multi-dimensional Statistics Merging for Cardinality Estimation'
+  year: 2024
+  
+- ISSN: null
   authors: Lee, W., Ha, J., Han, W., Park, C., Park, M., Han, J., and Lee, J.
   description: null
   highlight: 0
@@ -8,7 +22,7 @@
   is_corresponding_author: true
   is_demo: false
   link: null
-  month: May
+  month: June
   title: 'DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay'
   year: 2024
 
