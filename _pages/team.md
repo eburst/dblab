@@ -334,7 +334,14 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4><a href="https://www.linkedin.com/in/doyuplee/">DoYup Lee</a></h4>
 <i>Senior Research Scientist, Runway, New York, USA
 </div>
-</div>  
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://kr.linkedin.com/in/kyoungmin-kim-60420ab1">Kyoungmin Kim</a></h4>
+<i>Post-Doctor, EPEL, Lausanne, Switzerland 
+</div>
+</div>
   
 <div class="row">  
 <div class="col-sm-6 clearfix">
