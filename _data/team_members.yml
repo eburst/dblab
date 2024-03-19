@@ -102,14 +102,6 @@
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
-- name: YeonSu Park
-  homepage: https://yspark-dblab.github.io/
-  photo: yspark.jpeg
-  info: PhD (integrated), started March 2018
-  email: yspark@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, SungKyunKwan University, South Korea
-
 - name: In Seo
   homepage: https://iseo-dblab.github.io/
   photo: iseo.jpeg
