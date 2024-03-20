@@ -237,7 +237,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Jeongho Son</h4> 
+<h4>HyoJeong Yun</h4> 
 <i>Bachelor Student
 </div>
 </div> 
@@ -245,6 +245,20 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Jueun Kim</h4>
+<i>Bachelor Student
+</div>
+</div>    
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Sohyeon Kim</h4>
+<i>Bachelor Student
+</div>
+</div>    
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Yoonho Kim</h4>
 <i>Bachelor Student
 </div>
 </div>    
@@ -370,8 +384,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i> Skelter Labs, Korea
 </div>
 </div>
-
-
 
 <div class="row">  
 <div class="col-sm-6 clearfix">
