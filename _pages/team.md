@@ -269,6 +269,12 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 ### Post-docs and Researchers
 
 
+<div class="row">  
+<div class="col-sm-6 clearfix">
+<h4><a href="https://www.linkedin.com/in/jihwan-lee-85827324">Jihwan Lee</a></h4> 
+<i>Software Engineer, Google Research
+</div>
+</div>  
 
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -283,13 +289,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Applied Scientist, Alexa AI, Amazon, USA
 </div>
 </div>
-
-<div class="row">  
-<div class="col-sm-6 clearfix">
-<h4><a href="https://www.linkedin.com/in/jihwan-lee-85827324">Jihwan Lee</a></h4> 
-<i>Software Engineer, Google Research
-</div>
-</div>  
 
 <div class="row">  
 <div class="col-sm-6 clearfix">
