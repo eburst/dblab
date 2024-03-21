@@ -12,9 +12,9 @@ permalink: /publications/
 ## Group highlights
 
 <ul style="overflow: hidden">
-  <li>We have published six papers (3 SIGMOD, 2 VLDB, 1 ICDE) in top database conferences in 2021</li>
-  <li>We have published five papers (1 SIGMOD, 4 VLDB) in top database conferences in 2020</li>
   <li>We have published six papers (4 SIGMOD, 1 VLDB, 1 ICDE) in top database conferences in 2024</li>
+  <li>We have published six papers (3 SIGMOD, 2 VLDB, 1 ICDE) in top database conferences in 2021</li>
+  <li>We have published five papers (1 SIGMOD, 4 VLDB) in top database conferences in 2020</li>  
 </ul>
 
 ## Notice for undergrads 
