@@ -237,13 +237,6 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>HyoJeong Yun</h4> 
-<i>Bachelor Student
-</div>
-</div> 
-
-<div class="row">
-<div class="col-sm-6 clearfix">
 <h4>Jueun Kim</h4>
 <i>Bachelor Student
 </div>
@@ -264,7 +257,12 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>    
   
 
-
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>HyoJeong Yun</h4> 
+<i>Bachelor Student
+</div>
+</div> 
 
 <!--
 ## Administration Staff
@@ -282,12 +280,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 
 ### Post-docs and Researchers
 
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Pham Minh Duc</h4> 
-<i>CWI, Netherland
-</div>
-</div>
+
 
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -330,6 +323,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/jinohoh/">Jinoh Oh</a></h4>
 <i>Applied Scientist, Alexa AI, Amazon, USA
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Minh-Duc Pham</h4> 
+<i>CWI, Netherland
 </div>
 </div>
 
