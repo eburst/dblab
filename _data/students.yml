@@ -8,9 +8,7 @@
 #  education3:
 #  education4:
 
-- name: Byeongho Yu
-  info: Bachelor Student
-  email: bhyu@dblab.postech.ac.kr
+
 
 - name: JinHo Ko
   info: Bachelor Student
@@ -24,10 +22,16 @@
   info: Bachelor Student
   email: solee@dblab.postech.ac.kr
 
+- name: Woodong Yeop
+  info: Bachelor Student
+  email: wdyeop@dblab.postech.ac.kr
+
 - name: Taejun Yoon
   info: Bachelor Student
   email: tjyoon@dblab.postech.ac.kr
 
-- name: Woodong Yeop
+
+
+- name: Byeongho Yu
   info: Bachelor Student
-  email: wdyeop@dblab.postech.ac.kr
+  email: bhyu@dblab.postech.ac.kr
