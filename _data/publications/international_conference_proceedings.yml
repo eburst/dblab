@@ -35,7 +35,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: false
-  link: null
+  link: https://drive.google.com/file/d/1g-rSzZpe5c9rjAPnln6vsNftNSqkNV4n/view?usp=sharing
   month: June
   title: 'ASM: Harmonizing Autoregressive model, Sampling, and Multi-dimensional Statistics Merging for Cardinality Estimation'
   year: 2024
@@ -49,7 +49,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: false
-  link: null
+  link: https://drive.google.com/file/d/1MWAhEdyc1DwnNnP8pg9EjLtnkU4xzOTW/view?usp=sharing
   month: June
   title: 'DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay'
   year: 2024
