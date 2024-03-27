@@ -15,11 +15,11 @@
   authors: Kim, H., Choi, Y., Park, K., Lin, X., Hong, S., and Han, W.
   description: null
   highlight: 0
-  image: https://dl.acm.org/doi/10.1007/s00778-022-00749-x
+  image: null
   info: The VLDB Journal
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: 
+  link: https://dl.acm.org/doi/10.1007/s00778-022-00749-x
   month: May
   title: 'Fast Subgraph Query Processing and Subgraph Matching via Static and Dynamic Equivalences'
   year: 2022
