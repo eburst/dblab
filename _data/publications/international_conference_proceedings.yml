@@ -1,18 +1,4 @@
 - ISSN: null
-  authors: Lee, S., Kim, K., and Han, W.
-  description: null
-  highlight: 0
-  image: null
-  info: In Proc., 50th  Int’l Conf. on Management of Data, ACM SIGMOD, Santiago, Chile
-  is_co-corresponding_author: false
-  is_corresponding_author: true
-  is_demo: true
-  link: null
-  month: June
-  title: 'ASM in Action: Fast and Practical Learned Cardinality Estimation'
-  year: 2024
-
-- ISSN: null
   authors: Lee, Y., Kim, K., Lee, W., and Han, W.
   description: null
   highlight: 0
@@ -52,6 +38,20 @@
   link: https://drive.google.com/file/d/1MWAhEdyc1DwnNnP8pg9EjLtnkU4xzOTW/view?usp=sharing
   month: June
   title: 'DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay'
+  year: 2024
+
+- ISSN: null
+  authors: Lee, S., Kim, K., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., 50th  Int’l Conf. on Management of Data, ACM SIGMOD, Santiago, Chile
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: true
+  link: null
+  month: June
+  title: 'ASM in Action: Fast and Practical Learned Cardinality Estimation'
   year: 2024
 
 - ISSN: null
