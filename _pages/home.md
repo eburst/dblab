@@ -56,7 +56,7 @@ Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems 
 
 We are currently [hiring interns (연구 참여학생 모집)](https://dslab.postech.ac.kr/internship). This is an amazing opportunity for undergrads to experience world-class research in Big Data and prepare for possible graduate school applications. You could be a rising-**STAR** of the future if you stand out in our field.
 <br><br>
-We are proud of strong publication records in top database venues such as having presented 24 papers at SIGMOD/VLDB/PODS/ICDE between 2019 and 2024., significantly contributing to make the Korean database community one of the strongest communities worldwide. Many of our alumni work for top notch companies including Facebook, Oracle, SAP, Microsoft, and Amazon. We have been closely collaborating with Oracle Labs and SAP for many years.
+We are proud of strong publication records in top database venues such as having presented 24 papers at SIGMOD/VLDB/PODS/ICDE between 2019 and 2024, significantly contributing to make the Korean database community one of the strongest communities worldwide. Many of our alumni work for top notch companies including Facebook, Oracle, SAP, Microsoft, and Amazon. We have been closely collaborating with Oracle Labs and SAP for many years.
 
 <figure class="first">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_oracle.png" style="width: 180px; ">
