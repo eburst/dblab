@@ -11,7 +11,7 @@ Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems 
 
 1) Our team is developing data systems that can automatically adapt to a specific workload and data distribution, delivering exceptional performance without requiring manual tuning from an administrator.<br>
 2) Our research interest is in data AI, specifically exploring schema discovery techniques and (large) language models for tabular and text data. In the short term, we develop advanced systems for data analysis and processing, providing valuable insights to businesses and organizations. In the long term, our goal is to develop a cost-efficient, <em>data-centric system with artificial general intelligence</em>.<br>
-3) We are also building an intelligent system to interact with humans through a natural language interface to the database.
+3) We are also building an intelligent system to interact with humans through a natural language interface to the database. You can refer to our [labcumentary](https://cse.postech.ac.kr/랩큐멘터리-db-lab/?pageds=1&p_id=10669&e=&k=&c=&cat=15) for the summary of our current research interests.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -56,7 +56,7 @@ Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems 
 
 We are currently [hiring interns (연구 참여학생 모집)](https://dslab.postech.ac.kr/internship). This is an amazing opportunity for undergrads to experience world-class research in Big Data and prepare for possible graduate school applications. You could be a rising-**STAR** of the future if you stand out in our field.
 <br><br>
-We are proud of strong publication records in top database venues such as SIGMOD/VLDB (16 SIGMOD/VLDB papers by our group for the past 5 years), significantly contributing to make the Korean database community one of the strongest communities worldwide. Many of our alumni work for top notch companies including Facebook, Oracle, SAP, Microsoft, and Amazon. We have been closely collaborating with Oracle Labs and SAP for many years.
+We are proud of strong publication records in top database venues such as having presented 24 papers at SIGMOD/VLDB/PODS/ICDE between 2019 and 2024., significantly contributing to make the Korean database community one of the strongest communities worldwide. Many of our alumni work for top notch companies including Facebook, Oracle, SAP, Microsoft, and Amazon. We have been closely collaborating with Oracle Labs and SAP for many years.
 
 <figure class="first">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_oracle.png" style="width: 180px; ">
