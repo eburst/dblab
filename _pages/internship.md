@@ -8,9 +8,9 @@ permalink: /internship
 
 # INTERNSHIP OPPORTUNITY
 
-Application deadline: 1 December, 2023
+Application deadline: 30 May, 2024
 
-Internship period: 26 December - 14 Feb., 2024
+Internship period: 10 June - 30 Aug., 2024
 
 ## Eligibility criteria
 
@@ -37,4 +37,4 @@ Please fill [this application form](https://forms.gle/iHyReV6YQNdivn3f8) if you 
 - Anomaly explanation using deep learning model (AI)
 - Implementation of Neo4J JDBC driver API for S62 (System)
 - Implementation of graph partitioning algorithm using hash trie data structure (System)
-
+- Multi-modal vector index (AI + System)
