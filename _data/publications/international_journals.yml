@@ -1,4 +1,19 @@
 - ISSN: 2150-8097
+  authors: Lee, W., Ha, J., Han, W., Park, C., Park, M., Han, J.
+  description: null
+  highlight: 0
+  image: null
+  info: In 50th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB)
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: true
+  link: 
+  month: Aug.
+  title: 'DoppelGanger++ in Action: A Database Replay System with Fast Dependency Graph Generation'
+  year: 2024 
+  
+- ISSN: 2150-8097
   authors: Shin, W., Song, S., Park, K., and Han, W.
   description: null
   highlight: 0
@@ -10,7 +25,8 @@
   link: 
   month: Aug.
   title: 'Cardinality Estimation of Subgraph Matching: A Filtering-Sampling Approach'
-  year: 2024  
+  year: 2024 
+  
 - ISSN: 1066-8888
   authors: Kim, H., Choi, Y., Park, K., Lin, X., Hong, S., and Han, W.
   description: null
@@ -23,6 +39,7 @@
   month: May
   title: 'Fast Subgraph Query Processing and Subgraph Matching via Static and Dynamic Equivalences'
   year: 2022
+  
 - ISSN: 2150-8097
   authors: Yuan, Z., Chua, H., Bhowmick, S., Ye, Z., Han, W., and Choi, B.
   description: null
