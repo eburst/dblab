@@ -22,7 +22,7 @@
     (PVLDB), Vol. 14, No. 1
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: 
+  link: https://dl.acm.org/doi/10.14778/3654621.3654635
   month: Aug.
   title: 'Cardinality Estimation of Subgraph Matching: A Filtering-Sampling Approach'
   year: 2024 
@@ -49,7 +49,7 @@
     (PVLDB), Vol. 14, No. 11, pp. 1979-1991
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: http://www.vldb.org/pvldb/vol14/p1979-bhowmick.pdf
+  link: https://dl.acm.org/doi/10.14778/3476249.3476256
   month: Aug.
   title: 'Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned
     Pattern Selection for Large Networks'
@@ -63,7 +63,7 @@
     (PVLDB), Vol. 14, No. 8, pp.1298-1310
   is_co-corresponding_author: true
   is_corresponding_author: false
-  link: http://www.vldb.org/pvldb/vol14/p1298-han.pdf
+  link: https://dl.acm.org/doi/10.14778/3457390.3457395
   month: Aug.
   title: Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming
   year: 2021
@@ -116,7 +116,7 @@
     (PVLDB), Vol. 13, No. 9, pp. 1456-1468
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: http://www.vldb.org/pvldb/vol13/p1456-kim.pdf
+  link: https://dl.acm.org/doi/10.14778/3397230.3397241
   month: Aug.
   title: 'IDAR: Fast Supergraph Search Using DAG Integration'
   year: 2020
@@ -142,7 +142,7 @@
     (PVLDB), Vol. 11, No. 12, Rio De Janeiro, Brazil
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: https://drive.google.com/open?id=1PY3uTHwNYLnpRmuVNBR6O0Y4iur3oJvP
+  link: https://dl.acm.org/doi/10.14778/3229863.3236236
   month: Aug.
   title: 'PANDA: A System for Partial Topology-based Search on Large Networks'
   year: 2018
