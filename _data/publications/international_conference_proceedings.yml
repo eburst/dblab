@@ -7,7 +7,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: false
-  link: null
+  link: https://dl.acm.org/doi/10.1145/3654950
   month: June
   title: 'In-depth Analysis of Continuous Subgraph Matching in a Common Delta Query Compilation Framework'
   year: 2024
@@ -21,7 +21,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: false
-  link: https://drive.google.com/file/d/1g-rSzZpe5c9rjAPnln6vsNftNSqkNV4n/view?usp=sharing
+  link: https://dl.acm.org/doi/abs/10.1145/3639300
   month: June
   title: 'ASM: Harmonizing Autoregressive model, Sampling, and Multi-dimensional Statistics Merging for Cardinality Estimation'
   year: 2024
@@ -35,7 +35,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: false
-  link: https://drive.google.com/file/d/1MWAhEdyc1DwnNnP8pg9EjLtnkU4xzOTW/view?usp=sharing
+  link: https://dl.acm.org/doi/10.1145/3639322
   month: June
   title: 'DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay'
   year: 2024
@@ -49,7 +49,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   is_demo: true
-  link: null
+  link: https://dl.acm.org/doi/10.1145/3626246.3654728
   month: June
   title: 'ASM in Action: Fast and Practical Learned Cardinality Estimation'
   year: 2024
@@ -77,7 +77,7 @@
   is_co-corresponding_author: true
   is_corresponding_author: false
   is_demo: false
-  link: null
+  link: https://proceedings.neurips.cc//paper_files/paper/2023/hash/9713d53ee4f31781304b1ca43266f8d1-Abstract-Conference.html
   month: December
   title: 'Locality-Aware Generalizable Implicit Neural Representation'
   year: 2023
@@ -95,6 +95,7 @@
   month: June
   title: 'Guaranteeing the O(AGM/OUT) Runtime for Uniform Sampling and Size Estimation over Joins'
   year: 2023
+  
 - ISSN: null
   authors: Kim, C., Lee, D., Kim, S., Cho, M., and Han, W.
   description: null
@@ -109,6 +110,7 @@
   title: 'Generalizable Implicit Neural Representations via Instance Pattern Composers'
   year: 2023
   endmsg: (selected as a highlight of CVPR, 2.5% acceptance rate)
+  
 - ISSN: null
   authors: Park, Y., Tak, B., and Han, W.
   description: null
@@ -122,6 +124,7 @@
   month: June
   title: 'QaaD (Query-as-a-Data): Scalable Execution of Massive Number of Small Queries in Spark'
   year: 2023
+  
 - ISSN: null
   authors: Lee, D., Kim, C., Kim, S., Cho, M., Han, W.
   description: null
@@ -135,6 +138,7 @@
   month: November
   title: 'Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer'
   year: 2022
+  
 - ISSN: null
   authors: Kim, K., Jeong, J., Seo, I., Han, W., Choi, K., and Chong, J.
   description: null
@@ -149,6 +153,7 @@
   month: June
   title: 'Learned Cardinality Estimation: An In-depth Study'
   year: 2022
+  
 - ISSN: null
   authors: Lee, D., Kim, C., Kim, S., Cho, M., and Han, W.
   description: null
@@ -162,6 +167,7 @@
   month: June
   title: 'Autoregressive Image Generation using Residual Quantization'
   year: 2022
+  
 - ISSN: null
   authors: Yuan, Z., Chua, H., Bhowmick, S., Ye, Z., Choi, B., and Han, W.
   description: null
@@ -175,6 +181,7 @@
   month: June
   title: 'PLAYPEN: Plug-and-Play Visual Graph Query Interfaces for Top-down and Bottom-Up Search on Large Networks'
   year: 2022
+  
 - ISSN: null
   authors: Gu, G., Nam, Y., Park, K., Galil, Z., Italiano, G., and Han, W.
   description: null
@@ -187,6 +194,7 @@
   month: May
   title: 'Efficient Graph Isomorphism Query Processing using Degree Sequences and Color-Label Distributions'
   year: 2022
+  
 - ISSN: null
   authors: Tak, B. and Han, W.
   description: null
@@ -199,6 +207,7 @@
   month: Dec.
   title: 'Lognroll: Discovering Accurate Log Templates by Iterative Filtering'
   year: 2021
+  
 - ISSN: null
   authors: Ko, S., Lee, T., Hong, K., Lee, W., Seo, I., Seo, J., and Han, W.
   description: null
@@ -212,6 +221,7 @@
   month: Jun.
   title: 'iTurboGraph: Scaling and Automating Incremental Graph Analytics'
   year: 2021
+  
 - ISSN: null
   authors: Kim, K., Kim, H., Fletcher, G., and Han, W.
   description: null
@@ -226,6 +236,7 @@
   title: Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality
     Guarantees for Graph Pattern Cardinality Estimation
   year: 2021
+  
 - ISSN: null
   authors: Kim, H., Choi, Y., Park, K., Lin, X., Hong, S., and Han, W.
   description: null
@@ -240,6 +251,7 @@
   title: 'Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph
     Matching'
   year: 2021
+  
 - ISSN: null
   authors: Gu, G., Nam, Y., Park, K., Galil, Z., Italiano, G., and Han, W.
   description: null
@@ -254,6 +266,7 @@
   title: 'Scalable Graph Isomorphism: Combining Pairwise Color Refinement and Backtracking
     via Compressed Candidate Space'
   year: 2021
+  
 - ISSN: null
   authors: Lee, D., Cheon, Y., and Han, W.
   description: null
@@ -267,6 +280,7 @@
   title: Regularizing Attention Networks for Anomaly Detection in Visual Question
     Answering
   year: 2021
+  
 - ISSN: null
   authors: Park, Y., Ko, S., Bhowmick, S., Kim, K., Hong, K., and Han, W.
   description: null
@@ -281,6 +295,7 @@
   title: 'G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation
     Techniques for Subgraph Matching'
   year: 2020
+  
 - ISSN: null
   authors: Han, M., Kim, H., Gu, G., Park, K., and Han, W.
   description: null
@@ -295,6 +310,7 @@
   title: 'Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching
     Order, and Failing Set Together'
   year: 2019
+  
 - ISSN: null
   authors: Kim, K., Seo, I., Han, W., Lee, J., Hong, S., Chafi, H., Shin, H., and
     Jeong, G.
@@ -309,6 +325,7 @@
   title: 'TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph
     Data'
   year: 2018
+  
 - ISSN: null
   authors: Ko, S., and Han, W.
   description: null
@@ -321,6 +338,7 @@
   month: Jun.
   title: 'TurboGraph++: A Scalable and Fast Graph Analytics System'
   year: 2018
+  
 - ISSN: null
   authors: Song, H., Lee, J., and Han, W.
   description: null
@@ -334,6 +352,7 @@
   month: Aug.
   title: 'PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency'
   year: 2017
+  
 - ISSN: null
   authors: Kim, H., Lee, J., Bhowmick, S., Han, W., Lee, J., Ko, S., and Jarrah, M.
   description: null
@@ -347,6 +366,7 @@
   month: Jun.
   title: 'DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine'
   year: 2016
+  
 - ISSN: null
   authors: Lee, J., Shin, H., Park, C., Ko, S., Chun, Y., Noh, J., Stephan, W., and
     Han, W.
@@ -361,6 +381,7 @@
   month: Jun.
   title: Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA
   year: 2016
+  
 - ISSN: null
   authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
   description: null
@@ -374,6 +395,7 @@
   title: 'DSP-CC: I/O Efficient Parallel Computation of Connected Components in Billion-scale
     Networks (Extended Abstract)'
   year: 2016
+  
 - ISSN: null
   authors: Oh, J., Han, W., Yu, H., and Jiang, X.
   description: null
@@ -387,6 +409,7 @@
   month: Aug.
   title: Fast and Robust Parallel SGD Matrix Factorization
   year: 2015
+  
 - ISSN: null
   authors: Kim, J., Han, W., Lee, S., Park, K., and Yu, H.
   description: null
@@ -400,6 +423,7 @@
   title: 'OPT: A New Framework for Overlapped and Parallel Triangulation in Large-scale
     Graphs'
   year: 2014
+  
 - ISSN: null
   authors: Han, W., Lee, S., Park, K., Lee, J., Kim, M., Kim, J. and Yu, H.
   description: null
@@ -414,6 +438,7 @@
   title: 'TurboGraph: A Fast Parallel Graph Engine Handling Billion-scale Graphs in
     a Single PC'
   year: 2013
+  
 - ISSN: null
   authors: Han, W., Lee, J., and Lee, J.
   description: null
@@ -427,6 +452,7 @@
   title: 'TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large
     Graph Databases'
   year: 2013
+  
 - ISSN: null
   authors: Song, M., Yang, C. C., Tang, X., and Han, W.
   description: null
@@ -440,6 +466,7 @@
   month: Oct.
   title: Mapping the Field of Bioinformatics with a Content and Co-authorship Analysis
   year: 2012
+  
 - ISSN: null
   authors: Shim, K., Cha, S., Chen, L., Han, W., Srivastava, D., Tanaka, K., Yu, H.,
     and Zhou, X.
@@ -454,6 +481,7 @@
   month: Apr.
   title: Data Management Challenges and Opportunities in Cloud Computing
   year: 2012
+  
 - ISSN: null
   authors: Song, M., Bleik, S., Yu, H., and Han, W.
   description: null
@@ -468,6 +496,7 @@
   title: Extracting Biomedical Concepts from Fulltext by Relative Importance in a
     Graph Model
   year: 2011
+  
 - ISSN: null
   authors: Lee, J., Kasperovics, R., Han, W., and Cho, H.
   description: null
@@ -481,6 +510,7 @@
   month: Oct.
   title: On Supporting Efﬁcient Updates of Regular Expression Indexes in RDF Databases
   year: 2011
+  
 - ISSN: null
   authors: Han, W., Lee, J., Moon, Y., Hwang, S., and Yu, H.
   description: null
@@ -494,6 +524,7 @@
   title: A New Approach for Processing Ranked Subsequence Matching Based on Ranked
     Union
   year: 2011
+  
 - ISSN: null
   authors: Han, W., Duc, P., Lee, J., Kasperovics, R., and Yu, J.
   description: null
@@ -506,6 +537,7 @@
   month: Jun.
   title: 'iGraph in Action: Performance Analysis of Disk-Based Graph Indexing Techniques'
   year: 2011
+  
 - ISSN: null
   authors: Yu, H., Ko, I., Kim, Y., Hwang, S., and Han, W.
   description: null
@@ -518,6 +550,7 @@
   month: Jun.
   title: Exact Indexing for Support Vector Machines
   year: 2011
+  
 - ISSN: null
   authors: Oh, J., Kim, T., Park, S., Han, W., and Yu, H.
   description: null
@@ -531,6 +564,7 @@
   month: Oct.
   title: Dynamic Concept Ontology Construction for PubMed Queries
   year: 2010
+  
 - ISSN: null
   authors: Han, W., Kwak, W., and Yu, H.
   description: null
@@ -543,6 +577,7 @@
   month: Mar.
   title: On Supporting Effective Web Extraction
   year: 2010
+  
 - ISSN: null
   authors: Song, M., Yu, H., and Han, W.
   description: null
@@ -557,6 +592,7 @@
   title: Combining Active Learning and Semi-supervised Learning Techniques to Extract
     Protein Interaction Sentences
   year: 2010
+  
 - ISSN: null
   authors: Han, W. and Lee, J.
   description: null
@@ -571,6 +607,7 @@
   title: Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core
     CPUs
   year: 2009
+  
 - ISSN: null
   authors: Yu, H., Oh, J., and Han, W.
   description: null
@@ -584,6 +621,7 @@
   month: Nov.
   title: Efficient Feature Weighting Methods for Ranking
   year: 2009
+  
 - ISSN: null
   authors: Yu, H., Kim, T., Oh, J., Ko, I., Kim, S., and Han, W.
   description: null
@@ -598,6 +636,7 @@
   title: Enabling Multi-Level Relevance Feedback on PubMed by Integrating Rank Learning
     into DBMS
   year: 2009
+  
 - ISSN: null
   authors: Han, W., Lee, J., Moon, Y., and Jiang, H.
   description: null
@@ -611,6 +650,7 @@
   month: null
   title: Ranked Subsequence Matching in Time-series Databases
   year: 2007
+  
 - ISSN: null
   authors: Han, W., Ng, J., Markl, V., Kache, H., and Kandil, M.
   description: null
@@ -623,6 +663,7 @@
   month: Jun.
   title: Progressive Optimization in a Shared-Nothing Parallel Database
   year: 2007
+  
 - ISSN: null
   authors: Jiang, H., Ho, H., Popa, L., and Han, W.
   description: null
@@ -635,6 +676,7 @@
   month: May.
   title: Mapping-Driven XML Transformation
   year: 2007
+  
 - ISSN: null
   authors: Han, W., Jung, S., Shin, J., Lee, J., Yoon, M., Yoon, C., Seo, W., and
     Koo, S.
@@ -649,6 +691,7 @@
   title: A Scalable Pipeline Data Processing Framework Using Database and Visualization
     Techniques
   year: 2007
+  
 - ISSN: null
   authors: Kache, H., Han, W., Markl, V.,Raman, V., and Ewens, S.
   description: null
@@ -662,6 +705,7 @@
   month: null
   title: 'POP/FED: Progressive Query Optimization for Federated Queries in DB2'
   year: 2006
+  
 - ISSN: null
   authors: Kim, W., Loh, W., and Han, W.
   description: null
@@ -675,6 +719,7 @@
   title: 'CC-GiST: Cache Conscious-Generalized Search Tree For Supporting Various
     Fast Intelligent Applications'
   year: 2006
+  
 - ISSN: null
   authors: Kim, W., Loh, W., and Han, W.
   description: null
@@ -687,6 +732,7 @@
   month: May.
   title: Performance Analysis of the Cache Conscious-Generalized Search Tree
   year: 2006
+  
 - ISSN: null
   authors: Han, W., Loh, W., and Whang, K.
   description: null
@@ -699,6 +745,7 @@
   month: Apr.
   title: 'Type-Level Access Pattern View: A Technique for Enhancing Prefetching Performance'
   year: 2006
+  
 - ISSN: null
   authors: Park, Y., Whang, K., Lee, B., and Han, W.
   description: null
@@ -713,6 +760,7 @@
   title: Efficient Evaluation of Partial Match Queries for XML Documents Using Information
     Retrieval Techniques
   year: 2005
+  
 - ISSN: null
   authors: Whang, K., Lee, M., Lee, J., Kim, M., and Han, W.
   description: null
@@ -725,6 +773,7 @@
   month: Apr.
   title: 'Odysseus: a High-Performance ORDBMS Tightly-Coupled with IR Features'
   year: 2005
+  
 - ISSN: null
   authors: Han, W., Lee, K., Lee, B., and Kim, W.
   description: null
@@ -739,6 +788,7 @@
   title: 'An XML Storage System Using Object-Relational DBMSs: Syntax, Semantics,
     and Implementation'
   year: 2004
+  
 - ISSN: null
   authors: Moon, Y., Whang, K., and Han, W.
   description: null
@@ -753,6 +803,7 @@
   title: 'General Match: A Subsequence Matching Method in Time-Series Databases Based
     on Generalized Windows'
   year: 2002
+  
 - ISSN: null
   authors: Han, W., Whang, K., Moon, Y., and Song, I.
   description: null
@@ -766,6 +817,7 @@
   month: Apr.
   title: Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs
   year: 2001
+  
 - ISSN: null
   authors: Cho, W., Han, W., Whang, K., and Hong, K.
   description: null
@@ -779,6 +831,7 @@
   month: Nov.
   title: Estimating Nested Selectivity in Object-Oriented Databases
   year: 2000
+  
 - ISSN: null
   authors: Lee, J., Whang, K., Han, W., Cho, W., and Song, I.
   description: null
