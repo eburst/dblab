@@ -11,7 +11,14 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Jp_w2IwAAAAJ&hl=ko), [DBLP](https://dblp.org/pid/62/2450.html))
+<ul style="overflow: hidden">
+  <li>We have published seven papers (4 SIGMOD, 2 VLDB, 1 ICDE) in top database conferences in 2024</li>
+  <li>We have published six papers (3 SIGMOD, 2 VLDB, 1 ICDE) in top database conferences in 2021</li>
+  <li>We have published five papers (1 SIGMOD, 4 VLDB) in top database conferences in 2020</li>  
+</ul>
+
+## Notice for undergrads 
+For undergrads who are interested in big data, data management, and database systems, note that SIGMOD, VLDB, and ICDE are flagship conferences in these fields. We have published a lot of strong papers in these venues. We are competing with top universities worldwide, and actively seek for self-motivated students who would like to share our vision.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,56 +58,108 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+{% assign year_until = 2012%}
+
 ## International Journals
-
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.international_journals %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.month }} {{ publi.year}}
+  {% if publi.is_demo == true %} (Demo){% endif %} {% if publi.ISSN != null %} (ISSN: {{publi.ISSN}}){% endif %} {% if publi.is_corresponding_author == true %} (Corresponding Author){% endif %} {% if publi.is_co-corresponding_author == true %} (Co-Corresponding Author){% endif %} {% if publi.link != null %} <a href="{{ publi.link }}">[PDF]</a> {% endif %} {% if publi.endmsg != null %} **{{ publi.endmsg }}** <br /> {% endif %}
 
 {% endfor %}
 
 ## International Conference Proceedings
-
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.international_conference_proceedings %}
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.month }} {{ publi.year }}
+  {% if publi.is_demo == true %} (Demo){% endif %} {% if publi.ISSN != null %} (ISSN: {{publi.ISSN}}){% endif %} {% if publi.is_corresponding_author == true %} (Corresponding Author){% endif %} {% if publi.is_co-corresponding_author == true %} (Co-Corresponding Author){% endif %} {% if publi.link != null %}<a href="{{ publi.link }}">[PDF]</a>{% endif %}{% if publi.ppt != null %}<a href="{{ publi.ppt }}">[PPT]</a>{% endif %} {% if publi.endmsg != null %}  **{{ publi.endmsg }}** <br /> {% endif %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endfor %}
+
+## Others
+{% assign var_year = 2030 %}
+{% for publi in site.data.publications.others %}
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.month }} {{ publi.year }} {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
 ## Domestic Journals
-
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.domestic_journals %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월 {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
+
 ## Domestic Conference Proceedings
-
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.domestic_conference_proceedings %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월 {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
 ## International Patents
-
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.international_patents %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.month }} {{ publi.year }} {% if publi.link != null %} 
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 ## Domestic Patents
-
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.domestic_patents %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if var_year != publi.year and var_year > year_until%}
+  **{{ publi.year }}** <br />
+  {% endif %}
+  {% assign var_year = publi.year %}
+  **{{ publi.title }}** <br />
+  <em>{{ publi.authors }} </em><br />
+  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월 {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
@@ -108,7 +167,7 @@ permalink: /publications/
 
 {% for publi in site.data.publications.invited_talks %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  **{{ publi.title }}** <br />
+  {{publi.info}}, {{ publi.month }} {{ publi.year }}
 
 {% endfor %}

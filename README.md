@@ -1,4 +1,4 @@
-# Database and Data mining Lab Website
+# Data Systems Lab Website
 
 This is the website of our academic research group at POSTECH.
 
