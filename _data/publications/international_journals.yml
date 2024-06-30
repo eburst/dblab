@@ -1,4 +1,18 @@
 - ISSN: 2150-8097
+  authors: Yun, J., Tak, B., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 50th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB)
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: 
+  month: Aug.
+  title: 'ReCG: Bottom-Up JSON Schema Discovery Using a Repetitive Cluster-and-Generalize Framework'
+  year: 2024 
+  
+- ISSN: 2150-8097
   authors: Lee, W., Ha, J., Han, W., Park, C., Park, M., and Han, J.
   description: null
   highlight: 0
