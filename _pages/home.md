@@ -7,8 +7,8 @@ permalink: /
 ---
 
 <br>
-Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems lab focuses on **STAR** (namely, **Systems, Theory, and ARtificial intelligence**) supported by major grants such as Star Lab. We have been endeavoring to solve challenging and real problems in computer/data science. <br>
-Big congratulations! Our lab has been awarded over $6 million for the Global AI Frontier Lab between Korea and NYU. I am the director of this international program, which includes 8 additional professors from KAIST and Sungkyunkwan University. Many of our students will be dispatched to NYU each year to collaborate with world-leading researchers.
+Welcome to the Data Systems Lab (Big Data Lab) at the POSTECH. Our data systems lab focuses on **STAR** (namely, **Systems, Theory, and ARtificial intelligence**) supported by major grants such as Star Lab. We have been endeavoring to solve challenging and real problems in computer/data science. <br><br>
+<b>[Big News]</b> Our lab has been awarded over $6 million USD for the Global AI Frontier Lab between Korea and NYU. I am the director of this international program, which includes 8 additional professors from KAIST and Sungkyunkwan University. Many of our students will be dispatched to NYU each year to collaborate with world-leading researchers.
 
 1) Our team is developing data systems that can automatically adapt to a specific workload and data distribution, delivering exceptional performance without requiring manual tuning from an administrator.<br>
 2) Our research focuses on data AI, particularly in schema discovery techniques and the use of (large) language models for both tabular and text data. In the short term, we aim to develop advanced systems for data analysis and processing, offering valuable insights to businesses and organizations. Additionally, we are building a fast retrieval-augmented generation (RAG) system to ensure trustworthiness. In the long term, our goal is to create a cost-efficient, <em>data-centric system with artificial general intelligence capabilities</em>.<br>
