@@ -256,7 +256,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <i>Bachelor Student
 </div>
 </div>    
--->
+
 
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -264,7 +264,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <i>Bachelor Student
 </div>
 </div> 
-
+-->
 <!--
 ## Administration Staff
 -->
