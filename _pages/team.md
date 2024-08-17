@@ -235,13 +235,13 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 ## Bachelor Students
 
-<div class="row">
+<!-- <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Jueun Kim</h4>
 <i>Bachelor Student
 </div>
-</div>    
-
+</div>
+-->
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Sohyeon Kim</h4>
@@ -249,13 +249,14 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 </div>
 </div>    
 
+<!--
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Yoonho Kim</h4>
 <i>Bachelor Student
 </div>
 </div>    
-  
+-->
 
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -279,8 +280,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>//-->
 
 ### Post-docs and Researchers
-
-
 
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -333,7 +332,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
 
-
   
 <!-- <div class="row">  
 <div class="col-sm-6 clearfix">
@@ -373,9 +371,12 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
 
-
-
-  
+<!-- <div class="row">  
+<div class="col-sm-6 clearfix">
+<h4><a href="https://yspark-dblab.github.io/">YeonSu Park</a></h4> 
+<i>Full time Lecturer, Kangwon National University, Korea
+</div>
+</div> -->
 
   
 ### MSs
@@ -405,7 +406,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>JiSung Jung</h4>
-<i>
+<i> Kakao Enterprise, Korea 
 </div>
 </div> 
 
