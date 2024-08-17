@@ -87,12 +87,19 @@
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
-
 - name: Taejun Yoon
   homepage: https://ytj0604.github.io
   photo: tjyoon.png
   info: PhD (integrated), started March 2024
   email: tjyoon@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: HyoJeong Yun
+  homepage: https://hyojeongyunn.github.io/hyojeongyunn/
+  photo: hyojeongyun.jpeg
+  info: PhD (integrated), started September 2024
+  email: hjyun@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
