@@ -1,5 +1,89 @@
 - ISSN: null
-  authors: Wook-Shin Han andSeongyun Ko
+  authors: Wook-Shin Han, Hyuk Kyu Kang, and Hyeonji Kim 
+  description: null
+  highlight: 0
+  image: null
+  info: U.S. App No. 18/725,248
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: June
+  title: Method for Enhancing Learning Data Set in Natural Language Processing System
+  year: 2024
+- ISSN: null
+  authors: Wook-Shin Han, Hyukkyu Kang, and Sungho Park 
+  description: null
+  highlight: 0
+  image: null
+  info: U.S. App No. 63/610.344
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: A Method and Device for Detecting Anomalies in Database Performance from Log Data, and Analyzing the Causes
+  year: 2023
+- ISSN: null
+  authors: Wook-Shin Han, Taesung Lee, and Kijae Hong 
+  description: null
+  highlight: 0
+  image: null
+  info: App No. PCT/KR2023/021074
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: Method and Apparatus for Accelerating SQL Analytic Queries on GPU
+  year: 2023
+- ISSN: null
+  authors: Wook-Shin Han, Yeonsu Park, and Kijae Hong 
+  description: null
+  highlight: 0
+  image: null
+  info: App No. PCT/KR2023/010882
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: July
+  title: Distributed Processing System and Method for Processing Data
+  year: 2023
+- ISSN: null
+  authors: Wook-Shin Han, Hyukkyu Kang, and Hyeonji Kim 
+  description: null
+  highlight: 0
+  image: null
+  info: U.S. App No. 17/964,807
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Oct.
+  title: Apparatus and Method for Processing Natural Language Query about Relational Database Using Transformer Neural Network
+  year: 2022
+- ISSN: null
+  authors: Wook-Shin Han, Hyukkyu Kang, and Hyeonji Kim 
+  description: null
+  highlight: 0
+  image: null
+  info: App No. PCT/KR2021/020301
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: Method for Augmenting Training Data Set in Natural Language Processing System
+  year: 2021
+- ISSN: null
+  authors: Wook-Shin Han, InHyuk Na, Hyeonji Kim, and Hyukkyu Kang 
+  description: null
+  highlight: 0
+  image: null
+  info: App No. PCT/KR2019/018491
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: Column and Table Prediction Method for Text to SQL Query Translation Based on a Neural Network
+  year: 2019
+- ISSN: null
+  authors: Wook-Shin Han and Seongyun Ko
   description: null
   highlight: 0
   image: null
@@ -11,29 +95,17 @@
   title: Graph Data Processing Method and Apparatus Thereof
   year: 2021
 - ISSN: null
-  authors: Wook-Shin Han, Hyeonji Kim, and Hyuk Kyu Kang
+  authors: Wook-Shin Han, Ching-Tien Ho, Haifeng Jiang, and Lucian Popa
   description: null
   highlight: 0
   image: null
-  info: PCT, App. No. PCT/KR2021/020301
+  info: U.S. Patent No. 8,862,636 B2
   is_co-corresponding_author: false
   is_corresponding_author: false
   link: null
-  month: Dec.
-  title: Method of Augmenting Training Data Set in Natural Language Processing System
-  year: 2021
-- ISSN: null
-  authors: Wook-Shin Han, Hyuk Kyu Kang, Hyeonji Kim, and Inhyuk Na
-  description: null
-  highlight: 0
-  image: null
-  info: PCT, App. No. PCT/KR2019/018491
-  is_co-corresponding_author: false
-  is_corresponding_author: false
-  link: null
-  month: Dec.
-  title: Column and Table Prediction Method for Text to SQL Query Translation Based on a Neural Network 
-  year: 2019
+  month: Oct.
+  title: Scalable Algorithms for Mapping-Based XML Transformation
+  year: 2014
 - ISSN: null
   authors: Wook-Shin Han, Wooseong Kwak, Jinsoo Lee, Guy M. Lohman, and Volker Markl
   description: null
@@ -51,25 +123,13 @@
   description: null
   highlight: 0
   image: null
-  info: U.S. Patent No. 20090043806, June.
+  info: U.S. App No. 12/134,080
   is_co-corresponding_author: false
   is_corresponding_author: false
   link: null
-  month: null
+  month: June
   title: Efficient Tuple Extraction from Streaming XML Data
   year: 2008
-- ISSN: null
-  authors: Wook-Shin Han, Ching-Tien Ho, Haifeng Jiang, and Lucian Popa
-  description: null
-  highlight: 0
-  image: null
-  info: U.S. Patent No. 8,862,636 B2
-  is_co-corresponding_author: false
-  is_corresponding_author: false
-  link: null
-  month: Oct.
-  title: Scalable Algorithms for Mapping-Based XML Transformation
-  year: 2014
 - ISSN: null
   authors: Kyu-Young Whang, Byung-Kwon Park, Wook-Shin Han, and Young-Koo Lee
   description: null
