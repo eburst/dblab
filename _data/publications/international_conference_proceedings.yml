@@ -391,7 +391,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   link: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7498396&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7491900%2F7498210%2F07498396.pdf%3Farnumber%3D7498396
-  month: May.
+  month: May
   title: 'DSP-CC: I/O Efficient Parallel Computation of Connected Components in Billion-scale
     Networks (Extended Abstract)'
   year: 2016
@@ -673,7 +673,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: false
   link: http://dl.acm.org/citation.cfm?id=1242715
-  month: May.
+  month: May
   title: Mapping-Driven XML Transformation
   year: 2007
   
@@ -715,7 +715,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: false
   link: http://dl.acm.org/citation.cfm?id=2107049
-  month: May.
+  month: May
   title: 'CC-GiST: Cache Conscious-Generalized Search Tree For Supporting Various
     Fast Intelligent Applications'
   year: 2006
@@ -729,7 +729,7 @@
   is_co-corresponding_author: false
   is_corresponding_author: true
   link: https://dl.acm.org/doi/abs/10.1007/11758532_85
-  month: May.
+  month: May
   title: Performance Analysis of the Cache Conscious-Generalized Search Tree
   year: 2006
   
