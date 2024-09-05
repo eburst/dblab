@@ -374,7 +374,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4><a href="https://cse.kangwon.ac.kr/cse/professor/professor.do?mode=view&key=$cms$IwBgHA7ATAbEA&">YeonSu Park</a></h4> 
-<i>Full time Lecturer, Kangwon National University, Korea
+<i>Assistant Professor, Kangwon National University, Korea
 </div>
 </div>
 
