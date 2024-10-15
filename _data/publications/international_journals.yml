@@ -1,4 +1,18 @@
 - ISSN: 2150-8097
+  authors: Hong, K., Kim, K., Lee, Y., Moon, Y., Bhowmick, S., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 51st Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB)
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: 
+  month: Sept.
+  title: 'Themis: A GPU-accelerated Relational Query Execution Engine'
+  year: 2025
+  
+- ISSN: 2150-8097
   authors: Yun, J., Tak, B., and Han, W.
   description: null
   highlight: 0
