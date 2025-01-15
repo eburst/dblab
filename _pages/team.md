@@ -244,7 +244,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 -->
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Sohyeon Kim</h4>
+<h4>Sunho Cha</h4>
 <i>Bachelor Student
 </div>
 </div>    
